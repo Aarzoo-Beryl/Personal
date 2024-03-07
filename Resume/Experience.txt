@@ -1,0 +1,22 @@
+--------------------------------------------------------------EXPERIENCE--------------------------------------------------------------------------
+
+
+
+
+BERYL SYSTEMS PRIVATE LIMITED, FARIDABAD -
+(FEB,2024 - PRESENT)
+
+			• Engaged in comprehensive training programs covering various aspects of engineering, including design, analysis, and 				  project management, under the guidance of experienced mentors.
+			• Actively participated in hands-on projects and simulations to apply theoretical knowledge in practical settings, 				  gaining valuable insights into engineering principles and methodologies.
+			• Collaborated with cross-functional teams to support the development and implementation of innovative solutions, 				  contributing to the achievement of organizational goals and objectives.
+
+
+
+BPAAS SOLUTIONS PVT LTD, GURUGRAM -
+(JUL,2023 - AUG,2023)
+
+			• Created an Advanced Face Recognition Attendance System using facial recognition technology which was used to improve 				  attendance tracking, demonstrating proficiency in emerging technologies.
+			• Leveraged Python’s capabilities and SQL’s database management to create a robust system that significantly improved
+			  accuracy in recording attendance data.
+			• Programming skills and database management were combined to create a real-world solution for attendance
+			  management. The system is user-centric, improving accuracy and efficiency in attendance tracking.
