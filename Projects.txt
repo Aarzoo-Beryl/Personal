@@ -1,0 +1,38 @@
+                 PROJECTS
+
+
+Advanced Face Recognition Attendance System (Aug 2023) - 
+
+		• Leveraged cutting-edge facial recognition technology to revolutionize traditional attendance tracking methods to create a
+		  robust system for accurate identification and attendance recording.
+		• Developed a secure and efficient method for attendance management, minimizing errors and ensuring precise data
+		  recording. Demonstrated the ability to apply emerging technologies to practical scenarios, highlighting dedication to
+		  innovative and user-centric solutions.
+
+Offer Letter Generator Robot (Apr 2023) - 
+
+		• In partnership, led dispatcher module creation, orchestrating workflow, while a teammate developed performer module
+		for candidate data extraction and offer letter generation.
+		• Our collaborative project effectively streamlined offer letter creation, reducing processing time by 95% while ensuring
+		precise customization for each candidate.
+
+Age and Gender Detection System (Dec 2022) -
+
+		• A diverse dataset of facial images was collected and trained using DNN algorithms. Pre-trained models were used for face
+		detection and feature extraction. The model accurately predicts age and gender in real-time through a webcam feed.
+		• This project demonstrates the facial analysising mechanism, offering potential applications like personalized content and
+		demographic insights, achieving 95% average accuracy.
+
+Hand Tracking Printer (Sept 2022) -
+
+		• A hand tracking system was created using computer vision, allowing users to make art on a virtual canvas through hand
+		gestures. It features intuitive color selection and erasing, providing an engaging experience.
+		• The project uses computer vision to enable digital art creation through hand gestures. It improved hand tracking
+		efficiency by 30%, achieving a smooth 4 frames per second without lag.
+
+Typing Speed Test (Sept 2021) -
+
+		• Engineered an interactive Typing Speed Test program, delivering immediate accuracy and speed feedback, and
+		showcasing 85% programming proficiency through practical application.
+		• The result is an impactful tool that effectively elevates typing skills with real-time accuracy and speed assessments.
+
