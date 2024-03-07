@@ -1,0 +1,29 @@
+----------------------------------------------------- SKILLS -------------------------------------------------------
+
+
+TECHNICAL: 
+
+		- Python 
+		- Linux
+		- Git
+		- Pandas 
+		- OpenCV 
+		- Data Structure and Algorithm 
+		- MySQL 
+		- Java(basics) 
+		- C/C++
+
+LANGUAGE: 
+
+		- English(Articulate) 
+		- Hindi(Native) 
+		- German(Beginner)
+
+INTERPERSONAL: 
+
+		- Problem Solving 
+		- Team Collaboration 
+		- Leadership 
+		- Communication 
+		- Adaptability 
+		- Technical Proficiency
